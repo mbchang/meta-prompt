@@ -7,3 +7,6 @@ For a description of Meta-Prompt, see Noah's [blog-post](https://noahgoodman.sub
 
 ## Setup
 This repo is written with LangChain. See installation instructions [here](https://github.com/hwchase17/langchain#quick-install).
+
+## Run
+Launch the Jupyter notebook [`main.ipynb`](https://github.com/mbchang/meta-prompt/blob/main/main.ipynb) to interact with the agent.
